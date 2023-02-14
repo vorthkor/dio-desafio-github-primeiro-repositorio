@@ -1,0 +1,5 @@
+Link para download do git
+git-scm.com/downloads
+
+
+Git bash é um terminal extendido para executar códigos git.
